@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 Primera Línea
-=======
 Segunda línea
->>>>>>> RamaDos
